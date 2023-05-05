@@ -1,6 +1,8 @@
 <p align="center"><img src="https://b.top4top.io/p_2681zm4tb1.jpeg" style="height: 500px; width:"500px;" /></p>
 
-# Evil Limiter
+# Evil Limiter 
+# Created By Bitbrute
+# Supported By PututDev Project
 
 [![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
@@ -79,3 +81,5 @@ Type ```evillimiter``` or ```python3 bin/evillimiter``` to run the tool.
 
 Copyright (c) 2019 by [bitbrute](https://github.com/bitbrute). Some rights reserved.<br>
 [Evil Limiter](https://github.com/bitbrute/evillimiter) is licensed under the MIT License as stated in the [LICENSE file](LICENSE).
+
+~ Supported By PututDev Project ~
